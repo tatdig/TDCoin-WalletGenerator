@@ -8,3 +8,4 @@ robots.txt
 sitemap.xml
 /.idea
 /node_modules
+package-lock.json
